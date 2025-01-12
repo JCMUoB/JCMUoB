@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCMUoB
 - 👀 I’m interested in Mathematical Analysis, Applied Mathematics and Tertiary Level Mathematics Education.
-- 🌱 I’m currently learning ... how to drive :(.
-- 💞️ I’m not going out of my way to seek collaborations but if things come my way I'll always consider them (and probably go along with things ... I'm easily distracted).
+- 🌱 I’m currently learning ... R and Python.
+- 💞️ If new collaborations present themselves I'll always consider them.
 - 📫 How to reach me ... email me at J.C.Meyer@bham.ac.uk
 
 <!---
